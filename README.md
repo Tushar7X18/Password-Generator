@@ -18,3 +18,7 @@ Open a terminal window and navigate to the project directory.
 Run npm install to install the necessary dependencies.
 Run npm start to start the development server.
 Open your web browser and go to http://localhost:3000 to view the application.
+
+
+**And also for live preview you can click here**
+https://nickcallaghan.github.io/react-password-generator/
